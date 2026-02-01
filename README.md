@@ -61,14 +61,6 @@ cd projeto-jokenpo
 
 - Papel vence Pedra
 
-📁 Estrutura do Projeto
-
-projeto-jokenpo
-├── index.html
-├── style.css
-├── scripts.js
-└── README.md
-
 🧠 Objetivo do Projeto
 
 Este projeto tem como objetivo praticar:

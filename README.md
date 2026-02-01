@@ -41,7 +41,7 @@ cd projeto-jokenpo
 
 - Ou abra pelo seu editor (VS Code, por exemplo) com Live Server
 
-🎮 Como Jogar
+## 🎮 Como Jogar
 
 1. Escolha uma opção:
 
@@ -61,7 +61,7 @@ cd projeto-jokenpo
 
 - Papel vence Pedra
 
-🧠 Objetivo do Projeto
+## 🧠 Objetivo do Projeto
 
 Este projeto tem como objetivo praticar:
 
@@ -73,7 +73,7 @@ Este projeto tem como objetivo praticar:
 
 - Eventos em JavaScript
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido por lucmeneses-dev
 GitHub: https://github.com/lucmeneses-dev
